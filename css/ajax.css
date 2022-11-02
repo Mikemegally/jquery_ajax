@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #a3b18a;
+}
+div{
+    background-color: #588157;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 12px;
+    padding: 15px;
+}
+div img{
+    width: 40%;
+    height: auto;
+}
+div p{
+    color: black;
+    font-weight: bolder;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin: 5px;
+}
